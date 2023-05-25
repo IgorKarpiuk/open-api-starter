@@ -1,3 +1,6 @@
+apis:
+  yellow@v1:
+    root: openapi.yaml
 plugins:
   - plugin.js
 rules:
