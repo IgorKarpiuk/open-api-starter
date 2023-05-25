@@ -1,0 +1,4 @@
+plugins:
+  - plugin.js
+rules:
+  'test-plugin/id-test': error
